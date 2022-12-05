@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Noto+Sans+JP:wght@400;500&display=swap');
+
+:root {
+    /* カラー */
+    --main-black: #1a1a1a;
+    --main-white: #fafafa;
+    --main-grey: #F5F5F5;
+    /* フォントサイズ */
+    --fz-sm: 0.8rem;
+    --fz-lg: 1.4rem;
+    --fz-xl: 1.6rem;
+    --fz-2xl: 1.8rem;
+    --fz-3xl: 2rem;
+    /* スペース */
+    --space-xsm: 0.4rem;
+    --space-sm: 0.8rem;
+    --space-md: 1.5rem;
+    --space-lg: 2rem;
+    --space-xl: 2.5rem;
+    --space-2xl: 3rem;
+    --space-3xl: 3.5rem;
+    --space-4xl: 4rem;
+    --space-5xl: 4.5rem;
+    --space-6xl: 5rem;
+    --space-7xl: 5.5rem;
+    --space-8xl: 6rem;
+    --space-9xl: 6.5rem;
+    --space-10xl: 7rem;
+}
+
+body {
+    color: var(--c-main-black);
+    font-family: 'Lato', 'Noto Sans JP', sans-serif;
+    letter-spacing: 0.04em;
+}
